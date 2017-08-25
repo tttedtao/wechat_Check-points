@@ -1,2 +1,10 @@
-# -
-利用python爬虫爬取教务处网页，flask开发微信后台实现公众号查分查课表
+﻿爬虫+flask 微信后台开发的公众号后台
+用于哈尔滨工程大学教务处成绩和课表查询
+
+包含 templates 文件夹
+main.py
+model.py
+getdata.py
+database.py
+data_get.py
+log.txt
